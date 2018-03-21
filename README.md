@@ -7,7 +7,7 @@
 3. El usuario
 4. Objetivos de negocio
 5. Enunciado del problema
-6. [Research](##6.-Research)
+6. Research
 7. Análisis de resultados
 8. Propuesta de solución
 9. Prototipo Landing Page
