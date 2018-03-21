@@ -2,12 +2,12 @@
 
 ## Índice
 
-1. [Objetivos principales ](#Objetivos-principales)
+1. Objetivos principales
 2. El cliente
-3. [El usuario](#El-usuario)
+3. El usuario
 4. Objetivos de negocio
 5. Enunciado del problema
-6. Research
+6. [Research](##6.-Research)
 7. Análisis de resultados
 8. Propuesta de solución
 9. Prototipo Landing Page
@@ -23,15 +23,15 @@
  - Para este proyecto elegimos a Pullman de Morelos como cliente supuesto.
 
 ## 3. El usuario
-** Características: **
+**Características:**
 
 ![Tabla 1](images/tabla1.png)
 
-** Objetivos del usuario **
+**Objetivos del usuario**
 
 ![Tabla 2](images/tabla2.png)
 
-** Jouney del usuario **
+**Journey del usuario**
 
 ![Tabla 3](images/tabla3.png)
 
@@ -44,7 +44,7 @@
 
 ## 6. Research
 
-** Cuestionario **
+**Cuestionario**
 
 Esta encuesta está dirigida para personas que han viajado de la Ciudad de México a Cuernavaca al menos una vez en su vida. Tu opinión es importante para poder mejorar los servicios de transporte que existen en la actualidad.
 
@@ -106,13 +106,13 @@ Si Pullman de Morelos te ofreciera este sistema de recompensas por ser viajero f
 - No
 
 ## 7. Análisis de resultados
-** Insights Relevantes **
+**Insights Relevantes**
 ![Insights](images/insights.png)
 
 ## 8. Propuesta de solución
 *"Plataforma de recompensa por puntos para usuario que viaja frecuentemente de la CDMX a Cuernavaca, personalizable a cada línea de autobuses que nos contrate."*
 
-** Beneficios clave **
+**Beneficios clave**
 - Puntaje canjeable para descuentos o viajes gratis
 - Historial y personalización de su experiencia en la multiplataforma
 
@@ -123,8 +123,11 @@ Si Pullman de Morelos te ofreciera este sistema de recompensas por ser viajero f
 
 ## 10. Insights Prototipo
 ![Google Analytics](images/analytics1.png)
+
 ![Insights Prototipo](images/insightsprototipo.png)
+
 ![Insights Prototipo](images/insightsprototipo1.png)
 
 ![Insights Prototipo](images/hotjar.png)
+
 ![Insights Prototipo](images/hotjar1.png)
