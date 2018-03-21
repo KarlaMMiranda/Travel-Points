@@ -1,5 +1,7 @@
 # Travel Points
 
+![Travel Points Logo](images/logotravel.png)
+
 ## Índice
 
 1. Objetivos principales
