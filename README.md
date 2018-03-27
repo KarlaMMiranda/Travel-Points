@@ -14,6 +14,7 @@
 8. Propuesta de solución
 9. Prototipo Landing Page
 10. Insights Prototipo
+11. Conclusiones
 
 ## 1. Objetivos principales
 - Entender y optimizar el journey de tomar un camión de CDMX a Cuernavaca en autobuses Pullman.
@@ -121,7 +122,7 @@ Si Pullman de Morelos te ofreciera este sistema de recompensas por ser viajero f
 ![Solución](images/solucion.png)
 
 ## 9. Prototipo Landing Page
-
+El prototipo se hizo utilizando la herramienta Instapages, pero esta tiene una caducidad de 14 días, por lo que el link no se encuentra activo. Este fue testeado con 56 usuarios y se conectó con Google Analytics y HotJar para así generar los insights correspondientes a la interacción de la landing page.
 
 ## 10. Insights Prototipo
 ![Google Analytics](images/analytics1.png)
@@ -133,3 +134,11 @@ Si Pullman de Morelos te ofreciera este sistema de recompensas por ser viajero f
 ![Insights Prototipo](images/hotjar.png)
 
 ![Insights Prototipo](images/hotjar1.png)
+
+## 11. Conclusiones
+- El prototipo cumple con las especificaciones del cliente.
+- Soluciona las necesidades del cliente de forma clara y amigable.
+- Se presentó en dos versiones: desktop y mobile.
+- El feedback sobre el diseño fue positivo para el usuario.
+
+El prototipo obtuvo el 2do lugar como uno de los mejores proyectos del segundo sprint de Laboratoria MX (marzo, 2018).
